@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abubkr04
 - 👀 I’m interested in Learning Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python - Java
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me I don't have any social ATM
 
