@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abubkr04
+- 👋 Hello, I’m @Abubakr
 - 👀 I’m interested in Learning Coding
 - 🌱 I’m currently learning Python - Java
 - 💞️ I’m looking to collaborate on Python Projects
