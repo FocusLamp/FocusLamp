@@ -1,11 +1,8 @@
-- 👋 Hello, I’m @Abubakr
-- 👀 I’m interested in Learning Coding
-- 🌱 I’m currently learning Python - Java and C++
-- 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me I don't have any social ATM
-- 
-
-<!---
-Abubkr04/Abubkr04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hey... 
+- 👀 I’m interested in Web-Dev and programming languages.
+- 🌱 I’m currently learning Python - Java and JavaScript!
+- 💞️ I’m looking to collaborate on Keyboard layouts and customizations
+- 📫 How to reach me: Feel free to send me a DM on GitHub 
+- ⌨️ I use [kanata](https://github.com/jtroo/kanata) and have made some layouts based on [DreymaR Extend](https://dreymar.colemak.org/layers-extend.html) and [Stevep99 layers](https://stevep99.github.io/seniply/)
+- ⌨️ **My [Kanata's config](https://gist.github.com/FocusLamp/6ab16ca1520006a4a73a3375f1f33141)**
+- ❤️‍🔥 **I love Colemak-DH**
