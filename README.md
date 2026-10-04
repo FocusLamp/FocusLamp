@@ -1,8 +1,4 @@
-- 👋 Hey... 
-- 👀 I’m interested in Web-Dev and programming languages.
-- 🌱 I’m currently learning Python - Java and JavaScript!
-- 💞️ I’m looking to collaborate on Keyboard layouts and customizations
-- 📫 How to reach me: Feel free to send me a DM on GitHub 
-- ⌨️ I use [kanata](https://github.com/jtroo/kanata) and have made some layouts based on [DreymaR Extend](https://dreymar.colemak.org/layers-extend.html) and [Stevep99 layers](https://stevep99.github.io/seniply/)
-- ⌨️ **My [Kanata's config](https://gist.github.com/FocusLamp/6ab16ca1520006a4a73a3375f1f33141)**
+Escaping Web Dev via Python / Rust
+- 📫 How to reach me: Here's my Email [Focuslamp10@gmail.com](mailto:Focuslamp10@gmail.com)
+- ⌨️ **My [Kanata config](https://github.com/FocusLamp/keyboard)**
 - ❤️‍🔥 **I love Colemak-DH**
